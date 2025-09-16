@@ -26,4 +26,4 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 7. Bottom 5 Best sellers by Revenue, Total quantity and Total Orders: Create a bar chart showcasing the bottom 5 worst-         selling pizzas based on the Revenue, Total Quantity, Total Orders. This chart will enable us to identify underperforming     or less popular pizza options.
 
-![cand1](https://github.com/Jasveer8172/Pizza-Sales-Report-SQL-POWER-Bi/blob/main/Screenshot%202025-09-16%20074246.png)
+![cand1](https://github.com/Jasveer8172/Pizza-Sales-Report-SQL-POWER-Bi/blob/main/Screenshot%202025-09-16%20074235.png)
