@@ -1,5 +1,8 @@
 **Problem Statement:-**
 *KPI's REQUIREMENT*:- 
+
+![cand1](https://github.com/user-attachments/assets/6a48bb05-4a44-482e-9ca4-d65001838aaf)
+
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics:
   1. Total revenue: Sum of the total price of all pizza orders.
   2. Average Order Value: The average amount spent per order,calculated by dividing the total revenue by the total number of          orders.
